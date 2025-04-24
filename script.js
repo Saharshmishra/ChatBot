@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    const apiKey = 'AIzaSyBXoLW4aFxzOVre1lqKJIqyFPZnK8XWpyw';
+    const apiKey = 'AIzaSyBXoLW4aFxzOVre1lqKJIqyFPZnK';
     const apiUrl = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent';
 
     function appendMessage(message, isUser) {
